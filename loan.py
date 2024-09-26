@@ -32,7 +32,7 @@ def check_loan_eligibility():
     print(f"Loan Approved! Total amount with 10% interest: {total_amount_with_interest:.2f}")
     print(f"Your monthly payment {repayment_months} months will be: {monthly_payment:.2f}")
 
-# C
+# Start program
 check_loan_eligibility()
 
 
